@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006543549327",
+    "project_id": "facedetectionattendances-37375",
+    "storage_bucket": "facedetectionattendances-37375.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006543549327:android:1dae1a292a304cc9c591fa",
+        "android_client_info": {
+          "package_name": "com.example.facedetectionattendancesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006543549327-5b756ocop7ot2fo4ruga3v81p9h5ukn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfY71y951DCKnWksoIRavu870QzTjucIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006543549327-5b756ocop7ot2fo4ruga3v81p9h5ukn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
